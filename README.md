@@ -11,9 +11,9 @@ A empresa é reconhecida por seus clientes pela sua especialidade na área da To
 
 ## Tecnologias Utilizadas
 
--[HTML]([https://dart.dev/guides](https://developer.mozilla.org/pt-BR/docs/Web/HTML)) 
+-[HTML](https://dart.dev/guides](https://developer.mozilla.org/pt-BR/docs/Web/HTML)) 
 
--[CSS]([https://docs.flutter.dev/](https://developer.mozilla.org/pt-BR/docs/Web/CSS)) 
+-[CSS](https://docs.flutter.dev/](https://developer.mozilla.org/pt-BR/docs/Web/CSS)) 
 
 -[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
